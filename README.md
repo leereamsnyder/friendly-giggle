@@ -1,10 +1,10 @@
-# Lee Reamsnyders's code test for Validic
+# Lee Reamsnyder's code test
 
 > A Vue.js project
 
 ## How to run this
 
-Unfortunately I can't just slap the static files onto any old server; you need to be running a server with a proxy to be able to access the Github jobs API when you're cross-origin.
+Unfortunately I can't just slap the static files onto any old server; you need to be running a server with a proxy to be able to access the Github Jobs API when you're cross-origin.
 
 Here's how to get it running locally:
 
